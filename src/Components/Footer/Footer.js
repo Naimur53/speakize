@@ -23,7 +23,7 @@ const Footer = () => {
                             <li><a href="#" className='effect'><img src={publicLink('/Facebook.svg')} alt="social icons" /></a></li>
                             <li><a href="#" className='effect'><img src={publicLink('/Instagram.svg')} alt="social icons" /></a></li>
                             <li><a href="#" className='effect'><img src={publicLink('/Twitter.svg')} alt="social icons" /></a></li>
-                            <li><a href="#" className='effect'><img src={publicLink('/Linkedin.svg')} alt="social icons" /></a></li>
+                            <li><a href="#" className='effect'><img src={publicLink('/LinkedIn.svg')} alt="social icons" /></a></li>
                         </ul>
                     </div>
                 </div>
