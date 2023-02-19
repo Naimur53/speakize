@@ -9,6 +9,7 @@ module.exports = {
         "main-black": "#1E293B",
         "inner-black": '#414042',
         'dark-blue': '#0046A1',
+        'medium-blue': '#2A7CC7',
       },
       spacing: {
         sm: '8px',
@@ -26,7 +27,7 @@ module.exports = {
         'sm': ['20px', { lineHeight: '30px', }],
         'normal': ['24px', { lineHeight: '28px', }],
 
-        'base': ['48px', { lineHeight: '72px', }],
+        'base': ['48px', { lineHeight: '60px', }],
         'lg': ['60px', { lineHeight: '90px', }],
       },
     },
@@ -43,8 +44,8 @@ module.exports = {
         'sm': '100%',
         'md': '100%',
         'lg': '1024px',
-        'xl': '1080px',
-        '2xl': '1080px',
+        'xl': '1280px',
+        '2xl': '1280px',
       }
     },
   },
